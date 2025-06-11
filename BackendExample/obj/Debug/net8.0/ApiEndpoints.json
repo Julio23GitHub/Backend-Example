@@ -1,5 +1,134 @@
 [
   {
+    "ContainingType": "BackendExample.Controllers.Operation",
+    "Method": "Get",
+    "RelativePath": "api/Operation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.Operation",
+    "Method": "Post",
+    "RelativePath": "api/Operation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "BackendExample.Controllers.Number",
+        "IsRequired": true
+      },
+      {
+        "Name": "Host",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Content-Length",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "x-some",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.Operation",
+    "Method": "Edit",
+    "RelativePath": "api/Operation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "BackendExample.Controllers.Number",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.Operation",
+    "Method": "Delete",
+    "RelativePath": "api/Operation",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BackendExample.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

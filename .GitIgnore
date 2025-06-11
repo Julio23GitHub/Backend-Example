@@ -1,0 +1,51 @@
+# Archivos de compilación y dependencias
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Configuración de usuario
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de paquetes y dependencias
+packages/
+.nuget/
+*.nupkg
+project.lock.json
+global.json
+
+# Archivos de configuración y logs
+appsettings*.json
+logs/
+*.log
+
+# Archivos de publicación
+publish/
+wwwroot/
+
+# Archivos de depuración y herramientas
+*.vs/
+*.vscode/
+TestResults/
+Coverage/
+
+# Archivos generados por herramientas
+Generated/
+ServiceFabricBackup/
+
+# Archivos específicos de Docker
+docker-compose.override.yml
+.env
+
+# Archivos de configuración de Entity Framework
+Migrations/
+
+# Archivos de cache y temporales
+*.cache
+*.tmp

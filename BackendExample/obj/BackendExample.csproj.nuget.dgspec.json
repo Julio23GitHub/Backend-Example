@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pc Julio\\Repositorio\\BacekndProyect\\BackendExample\\BackendExample\\BackendExample.csproj": {}
+    "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj": {}
   },
   "projects": {
-    "D:\\Pc Julio\\Repositorio\\BacekndProyect\\BackendExample\\BackendExample\\BackendExample.csproj": {
+    "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pc Julio\\Repositorio\\BacekndProyect\\BackendExample\\BackendExample\\BackendExample.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
         "projectName": "BackendExample",
-        "projectPath": "D:\\Pc Julio\\Repositorio\\BacekndProyect\\BackendExample\\BackendExample\\BackendExample.csproj",
-        "packagesPath": "C:\\Users\\Pc Julio\\.nuget\\packages\\",
-        "outputPath": "D:\\Pc Julio\\Repositorio\\BacekndProyect\\BackendExample\\BackendExample\\obj\\",
+        "projectPath": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
+        "packagesPath": "C:\\Users\\CoinHunt-Dev-Julio\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\Backend-Example\\BackendExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pc Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CoinHunt-Dev-Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
