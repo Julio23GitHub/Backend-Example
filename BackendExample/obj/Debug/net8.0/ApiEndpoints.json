@@ -129,6 +129,94 @@
     ]
   },
   {
+    "ContainingType": "BackendExample.Controllers.PeoplesController",
+    "Method": "Add",
+    "RelativePath": "api/Peoples",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "people",
+        "Type": "BackendExample.Controllers.People",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.PeoplesController",
+    "Method": "Get",
+    "RelativePath": "api/Peoples/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BackendExample.Controllers.People",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.PeoplesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Peoples/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BackendExample.Controllers.People, BackendExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.PeoplesController",
+    "Method": "Get",
+    "RelativePath": "api/Peoples/search/{Search}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BackendExample.Controllers.People, BackendExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BackendExample.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

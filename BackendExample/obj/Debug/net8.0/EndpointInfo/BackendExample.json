@@ -224,6 +224,163 @@
         }
       }
     },
+    "/api/Peoples/all": {
+      "get": {
+        "tags": [
+          "Peoples"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Peoples/{id}": {
+      "get": {
+        "tags": [
+          "Peoples"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/People"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/People"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/People"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Peoples/search/{Search}": {
+      "get": {
+        "tags": [
+          "Peoples"
+        ],
+        "parameters": [
+          {
+            "name": "Search",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/People"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Peoples": {
+      "post": {
+        "tags": [
+          "Peoples"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/People"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/People"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/People"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -276,6 +433,24 @@
           "b": {
             "type": "number",
             "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "People": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthdate": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
