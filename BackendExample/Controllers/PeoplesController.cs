@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using BackendExample.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BackendExample.Controllers
@@ -7,6 +8,12 @@ namespace BackendExample.Controllers
 	[ApiController]
 	public class PeoplesController : ControllerBase
 	{
+		private IPeopleService _peopleService;
+
+		public PeoplesController([FromKeyedServices("peopleService")] IPeopleService peopleService)
+		{
+			_peopleService = peopleService;
+		}
 		private const string Id = "{id}";
 
 		[HttpGet("all")]
@@ -33,7 +40,7 @@ namespace BackendExample.Controllers
 		[HttpPost]
 		public IActionResult Add(People people)
 		{
-			if (string.IsNullOrEmpty(people.Name))
+			if (_peopleService.Validate(people))
 			{
 				return BadRequest();
 			}
