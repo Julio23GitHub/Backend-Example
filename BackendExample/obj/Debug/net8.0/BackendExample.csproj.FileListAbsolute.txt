@@ -65,3 +65,35 @@ D:\Repositorios\Backend-Example\BackendExample\obj\Debug\net8.0\refint\BackendEx
 D:\Repositorios\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.pdb
 D:\Repositorios\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.genruntimeconfig.cache
 D:\Repositorios\Backend-Example\BackendExample\obj\Debug\net8.0\ref\BackendExample.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\appsettings.Development.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\appsettings.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.staticwebassets.endpoints.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.exe
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.deps.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.runtimeconfig.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\BackendExample.pdb
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.csproj.AssemblyReference.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.AssemblyInfoInputs.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.AssemblyInfo.cs
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.csproj.CoreCompileInputs.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.MvcApplicationPartsAssemblyInfo.cs
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.sourcelink.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\scopedcss\bundle\BackendExample.styles.css
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\staticwebassets.build.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\staticwebassets.development.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendE.A1DFCBEF.Up2Date
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\refint\BackendExample.dll
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.pdb
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\BackendExample.genruntimeconfig.cache
+D:\Pc Julio\Repositorio\Backend-Example\BackendExample\obj\Debug\net8.0\ref\BackendExample.dll

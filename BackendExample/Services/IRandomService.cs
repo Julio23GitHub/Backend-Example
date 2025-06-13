@@ -1,6 +1,7 @@
 ﻿namespace BackendExample.Services
 {
-	public interface IRandomService
-	{
-	}
+    public interface IRandomService
+    {
+        int Value { get; }
+    }
 }
