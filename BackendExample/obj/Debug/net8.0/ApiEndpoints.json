@@ -217,6 +217,26 @@
     ]
   },
   {
+    "ContainingType": "BackendExample.Controllers.PostsController",
+    "Method": "Get",
+    "RelativePath": "api/Posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BackendExample.DTOs.PostDto, BackendExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BackendExample.Controllers.RandomController",
     "Method": "Get",
     "RelativePath": "api/Random",
@@ -235,6 +255,26 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.SomeController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Some/async",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendExample.Controllers.SomeController",
+    "Method": "GetSync",
+    "RelativePath": "api/Some/sync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "BackendExample.Controllers.WeatherForecastController",

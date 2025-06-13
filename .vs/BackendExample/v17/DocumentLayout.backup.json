@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Pc Julio\\Repositorio\\Backend-Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\backendexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\backendexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,95 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RandomController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:55:56.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "People2Service.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
-              "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:54:58.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Program.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs",
-              "RelativeToolTip": "BackendExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:50:19.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PeopleService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:40:22.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPeopleService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\IPeopleService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\IPeopleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:38:22.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PeoplesController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:53:03.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\Operation.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\Operation.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:13:31.126Z"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -150,6 +99,199 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\PostsService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\PostsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:11:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SomeController.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\SomeController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\SomeController.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\SomeController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\SomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:29:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RandomService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\RandomService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\RandomService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\RandomService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\RandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:07:07.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRandomService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\IRandomService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\IRandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:06:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeoplesController.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:53:03.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:19:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostsService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPostsService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\IPostsService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPostsService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\IPostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:09:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeopleService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:40:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackendExample",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
+              "RelativeDocumentMoniker": "BackendExample\\BackendExample.csproj",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
+              "RelativeToolTip": "BackendExample\\BackendExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T22:05:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "BackendExample\\DTOs\\PostDto.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "BackendExample\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:06:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendExample\\appsettings.json",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\appsettings.json",
+              "RelativeToolTip": "BackendExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T22:18:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomController.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:55:56.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "People2Service.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
+              "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:54:58.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPeopleService.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\IPeopleService.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\IPeopleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:38:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\Operation.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\Operation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:13:31.126Z"
             }
           ]
         },
@@ -160,6 +302,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8eb92c94-4556-4ff1-ace0-2f076b4ee243",
+        "Display": 0,
+        "X": -129,
+        "Y": 5,
+        "Width": 1315,
+        "Height": 821,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Program.cs",
+              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs",
+              "RelativeToolTip": "BackendExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:50:19.426Z",
+              "EditorCaption": ""
             }
           ]
         }
