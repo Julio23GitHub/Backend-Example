@@ -1,5 +1,8 @@
+using BackendExample.DTOs;
 using BackendExample.Models;
 using BackendExample.Services;
+using BackendExample.Validators;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,8 +20,13 @@ builder.Services.AddKeyedTransient<IRandomService, RandomService>("randomTransie
 
 builder.Services.AddScoped<IPostsService, PostsService>();
 
+//Entity Framework Core with PostgreSQL
 builder.Services.AddDbContext<StoreContext>(options =>
 	options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection")));
+
+
+//Validators
+builder.Services.AddScoped<IValidator<BeerInsertDto>, BeerInsertValidator>();
 
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>

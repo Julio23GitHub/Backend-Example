@@ -236,3 +236,4 @@ D:\Repositorios\Backend-Example\BackendExample\bin\Debug\net8.0\runtimes\win\lib
 D:\Repositorios\Backend-Example\BackendExample\bin\Debug\net8.0\Npgsql.dll
 D:\Repositorios\Backend-Example\BackendExample\bin\Debug\net8.0\Npgsql.RawPostgis.dll
 D:\Repositorios\Backend-Example\BackendExample\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Repositorios\Backend-Example\BackendExample\bin\Debug\net8.0\FluentValidation.dll

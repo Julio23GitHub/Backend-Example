@@ -1,5 +1,6 @@
 ﻿using BackendExample.DTOs;
 using BackendExample.Models;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,10 +12,12 @@ namespace BackendExample.Controllers
 	{
 
 		private readonly StoreContext _context;
+		private readonly IValidator<BeerInsertDto> _beerInsertValidator;
 
-		public BeerController(StoreContext context)
+		public BeerController(StoreContext context, IValidator<BeerInsertDto> beerInsertValidator)
 		{
 			_context = context;
+			_beerInsertValidator = beerInsertValidator;
 		}
 
 
@@ -56,6 +59,14 @@ namespace BackendExample.Controllers
 		[HttpPost]
 		public async Task<ActionResult<BeerDto>> Add(BeerInsertDto beerInsertDto)
 		{
+			var validationResult = await _beerInsertValidator.ValidateAsync(beerInsertDto);
+
+			if (!validationResult.IsValid)
+			{
+				return BadRequest(validationResult.Errors);
+			}
+
+
 			var beer = new Beer()
 			{
 				Name = beerInsertDto.Name,
