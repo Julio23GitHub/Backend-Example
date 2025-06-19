@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Pc Julio\\Repositorio\\Backend-Example\\",
+  "WorkspaceRootPath": "D:\\Repositorios\\Backend-Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\migrations\\20250619123222_alcoholinbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\migrations\\20250619123222_alcoholinbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\migrations\\20250619121858_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\migrations\\20250619121858_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\backendexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\backendexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\backendexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\peoplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\pc julio\\repositorio\\backend-example\\backendexample\\controllers\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,8 +74,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250619123222_AlcoholInBeer.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
+              "RelativeToolTip": "BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:32:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeToolTip": "BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:19:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250619121858_InitDB.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619121858_InitDB.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Migrations\\20250619121858_InitDB.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619121858_InitDB.cs",
+              "RelativeToolTip": "BackendExample\\Migrations\\20250619121858_InitDB.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:18:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackendExample",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
+              "RelativeDocumentMoniker": "BackendExample\\BackendExample.csproj",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
+              "RelativeToolTip": "BackendExample\\BackendExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T12:11:08.937Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -91,201 +143,127 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostsService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\PostsService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\PostsService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Models\\Beer.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Beer.cs",
+              "RelativeToolTip": "BackendExample\\Models\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:11:10.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRandomService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\IRandomService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\IRandomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:06:14.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PostsController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:19:44.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SomeController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\SomeController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\SomeController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\SomeController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\SomeController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:29:15.089Z",
+              "WhenOpened": "2025-06-17T16:21:53.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PeoplesController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Models\\Brand.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Brand.cs",
+              "RelativeToolTip": "BackendExample\\Models\\Brand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:53:03.768Z",
+              "WhenOpened": "2025-06-17T16:19:25.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IPostsService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPostsService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\IPostsService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPostsService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\IPostsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Program.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Program.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Program.cs",
+              "RelativeToolTip": "BackendExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:09:14.924Z",
+              "WhenOpened": "2025-06-12T16:50:19.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PeopleService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\StoreContext.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Models\\StoreContext.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\StoreContext.cs",
+              "RelativeToolTip": "BackendExample\\Models\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:40:22.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\appsettings.json",
-              "RelativeDocumentMoniker": "BackendExample\\appsettings.json",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\appsettings.json",
-              "RelativeToolTip": "BackendExample\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-13T22:18:22.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RandomService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\RandomService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\RandomService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\RandomService.cs",
-              "RelativeToolTip": "BackendExample\\Services\\RandomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:07:07.642Z",
+              "WhenOpened": "2025-06-17T16:26:30.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BackendExample",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
-              "RelativeDocumentMoniker": "BackendExample\\BackendExample.csproj",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
-              "RelativeToolTip": "BackendExample\\BackendExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-13T22:05:09.65Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendExample\\appsettings.json",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\appsettings.json",
+              "RelativeToolTip": "BackendExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T16:33:20.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\DTOs\\PostDto.cs",
-              "RelativeDocumentMoniker": "BackendExample\\DTOs\\PostDto.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\DTOs\\PostDto.cs",
-              "RelativeToolTip": "BackendExample\\DTOs\\PostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RandomController.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:06:19.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:17:18.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "RandomController.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
-              "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Title": "IRandomService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\IRandomService.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\IRandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:55:56.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:16:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "People2Service.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
+              "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:54:58.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "People2Service.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
-              "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "PeopleService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:54:58.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:40:22.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IPeopleService.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IPeopleService.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
               "RelativeToolTip": "BackendExample\\Services\\IPeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,49 +271,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeoplesController.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
+              "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:53:03.768Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Operation.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\Operation.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
               "RelativeToolTip": "BackendExample\\Controllers\\Operation.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T16:13:31.126Z"
             }
           ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "f7862835-3b17-4263-bea7-11db8622038b",
-        "Display": 0,
-        "X": 858,
-        "Y": 29,
-        "Width": 660,
-        "Height": 759,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
+        },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Program.cs",
-              "ToolTip": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\Program.cs*",
-              "RelativeToolTip": "BackendExample\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:50:19.426Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             }
           ]
         }
