@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Repositorios\\Backend-Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,33 +118,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BeerInsertValidator.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerInsertValidator.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Validators\\BeerInsertValidator.cs",
-              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerInsertValidator.cs",
-              "RelativeToolTip": "BackendExample\\Validators\\BeerInsertValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BeerUpdateValidator.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerUpdateValidator.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Validators\\BeerUpdateValidator.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerUpdateValidator.cs",
+              "RelativeToolTip": "BackendExample\\Validators\\BeerUpdateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T16:53:20.284Z",
+              "WhenOpened": "2025-06-20T12:08:57.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BeerController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\BeerController.cs",
               "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\BeerController.cs",
               "RelativeToolTip": "BackendExample\\Controllers\\BeerController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T15:53:21.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BeerDto.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\DTOs\\BeerDto.cs",
               "RelativeDocumentMoniker": "BackendExample\\DTOs\\BeerDto.cs",
@@ -153,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250619123222_AlcoholInBeer.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
               "RelativeDocumentMoniker": "BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
@@ -161,12 +165,11 @@
               "RelativeToolTip": "BackendExample\\Migrations\\20250619123222_AlcoholInBeer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:32:22.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:32:22.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StoreContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
@@ -174,8 +177,7 @@
               "RelativeToolTip": "BackendExample\\Migrations\\StoreContextModelSnapshot.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:19:27.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:19:27.039Z"
             },
             {
               "$type": "Document",
@@ -185,14 +187,26 @@
               "RelativeDocumentMoniker": "BackendExample\\Program.cs",
               "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Program.cs",
               "RelativeToolTip": "BackendExample\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T16:50:19.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "BeerInsertValidator.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerInsertValidator.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Validators\\BeerInsertValidator.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Validators\\BeerInsertValidator.cs",
+              "RelativeToolTip": "BackendExample\\Validators\\BeerInsertValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:53:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BeerInsertDto.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\DTOs\\BeerInsertDto.cs",
               "RelativeDocumentMoniker": "BackendExample\\DTOs\\BeerInsertDto.cs",
@@ -200,25 +214,23 @@
               "RelativeToolTip": "BackendExample\\DTOs\\BeerInsertDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:50:36.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T15:50:36.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BackendExample",
+              "DocumentIndex": 5,
+              "Title": "BackendExample.csproj",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
               "RelativeDocumentMoniker": "BackendExample\\BackendExample.csproj",
               "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
               "RelativeToolTip": "BackendExample\\BackendExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-19T12:11:08.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:11:08.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BeerUpdateDto.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\DTOs\\BeerUpdateDto.cs",
               "RelativeDocumentMoniker": "BackendExample\\DTOs\\BeerUpdateDto.cs",
@@ -226,12 +238,11 @@
               "RelativeToolTip": "BackendExample\\DTOs\\BeerUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T15:51:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T15:51:36.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250619121858_InitDB.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Migrations\\20250619121858_InitDB.cs",
               "RelativeDocumentMoniker": "BackendExample\\Migrations\\20250619121858_InitDB.cs",
@@ -239,12 +250,11 @@
               "RelativeToolTip": "BackendExample\\Migrations\\20250619121858_InitDB.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:18:58.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:18:58.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Beer.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Beer.cs",
               "RelativeDocumentMoniker": "BackendExample\\Models\\Beer.cs",
@@ -252,12 +262,11 @@
               "RelativeToolTip": "BackendExample\\Models\\Beer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:21:53.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:21:53.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Brand.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "BackendExample\\Models\\Brand.cs",
@@ -265,12 +274,11 @@
               "RelativeToolTip": "BackendExample\\Models\\Brand.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:19:25.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:19:25.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Models\\StoreContext.cs",
               "RelativeDocumentMoniker": "BackendExample\\Models\\StoreContext.cs",
@@ -278,12 +286,11 @@
               "RelativeToolTip": "BackendExample\\Models\\StoreContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:26:30.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:26:30.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\appsettings.json",
               "RelativeDocumentMoniker": "BackendExample\\appsettings.json",
@@ -291,12 +298,11 @@
               "RelativeToolTip": "BackendExample\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-17T16:33:20.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:33:20.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RandomController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
@@ -304,12 +310,11 @@
               "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:17:18.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:17:18.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IRandomService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IRandomService.cs",
@@ -317,12 +322,11 @@
               "RelativeToolTip": "BackendExample\\Services\\IRandomService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:16:35.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:16:35.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "People2Service.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
@@ -330,12 +334,11 @@
               "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:54:58.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:54:58.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "PeopleService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
@@ -343,12 +346,11 @@
               "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:40:22.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:40:22.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IPeopleService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IPeopleService.cs",
@@ -356,12 +358,11 @@
               "RelativeToolTip": "BackendExample\\Services\\IPeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:38:22.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:38:22.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PeoplesController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
@@ -369,12 +370,11 @@
               "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:53:03.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T16:53:03.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Operation.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\Operation.cs",
@@ -382,8 +382,7 @@
               "RelativeToolTip": "BackendExample\\Controllers\\Operation.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:13:31.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T16:13:31.126Z"
             }
           ]
         },

@@ -27,6 +27,7 @@ builder.Services.AddDbContext<StoreContext>(options =>
 
 //Validators
 builder.Services.AddScoped<IValidator<BeerInsertDto>, BeerInsertValidator>();
+builder.Services.AddScoped<IValidator<BeerUpdateDto>, BeerUpdateValidator>();
 
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>
