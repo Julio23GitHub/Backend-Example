@@ -19,10 +19,11 @@ builder.Services.AddKeyedTransient<IRandomService, RandomService>("randomTransie
 
 
 builder.Services.AddScoped<IPostsService, PostsService>();
+builder.Services.AddKeyedScoped<ICommonService<BeerDto, BeerInsertDto, BeerUpdateDto>, BeerService>("beerService");
 
 //Entity Framework Core with PostgreSQL
 builder.Services.AddDbContext<StoreContext>(options =>
-	options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection")));
 
 
 //Validators
@@ -32,7 +33,7 @@ builder.Services.AddScoped<IValidator<BeerUpdateDto>, BeerUpdateValidator>();
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>
 {
-	c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
+    c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
 });
 
 
@@ -46,8 +47,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-	app.UseSwagger();
-	app.UseSwaggerUI();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();

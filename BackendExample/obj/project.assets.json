@@ -5287,23 +5287,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CoinHunt-Dev-Julio\\.nuget\\packages\\": {},
+    "C:\\Users\\Pc Julio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
+      "projectUniqueName": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
       "projectName": "BackendExample",
-      "projectPath": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
-      "packagesPath": "C:\\Users\\CoinHunt-Dev-Julio\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorios\\Backend-Example\\BackendExample\\obj\\",
+      "projectPath": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\BackendExample.csproj",
+      "packagesPath": "C:\\Users\\Pc Julio\\.nuget\\packages\\",
+      "outputPath": "D:\\Pc Julio\\Repositorio\\Backend-Example\\BackendExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CoinHunt-Dev-Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pc Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5386,7 +5386,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
