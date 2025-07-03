@@ -1,5 +1,6 @@
 using BackendExample.DTOs;
 using BackendExample.Models;
+using BackendExample.Repository;
 using BackendExample.Services;
 using BackendExample.Validators;
 using FluentValidation;
@@ -23,17 +24,20 @@ builder.Services.AddKeyedScoped<ICommonService<BeerDto, BeerInsertDto, BeerUpdat
 
 //Entity Framework Core with PostgreSQL
 builder.Services.AddDbContext<StoreContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection")));
+	options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection")));
 
 
 //Validators
 builder.Services.AddScoped<IValidator<BeerInsertDto>, BeerInsertValidator>();
 builder.Services.AddScoped<IValidator<BeerUpdateDto>, BeerUpdateValidator>();
 
+//Repository
+builder.Services.AddScoped<IRepository<Beer>, BeerRepository>();
+
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>
 {
-    c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
+	c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
 });
 
 
@@ -47,8 +51,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+	app.UseSwagger();
+	app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
