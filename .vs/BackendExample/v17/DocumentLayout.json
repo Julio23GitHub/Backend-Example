@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|solutionrelative:backendexample\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E209843-CD1E-4B6E-9BD7-4B770222836B}|BackendExample\\BackendExample.csproj|d:\\repositorios\\backend-example\\backendexample\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,21 +93,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 195,
+          "DockedWidth": 212,
           "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "PostsService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\PostsService.cs",
               "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PostsService.cs",
               "RelativeToolTip": "BackendExample\\Services\\PostsService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T22:11:10.2Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -123,7 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\AutoMappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BackendExample\\AutoMappers\\MappingProfile.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\AutoMappers\\MappingProfile.cs",
+              "RelativeToolTip": "BackendExample\\AutoMappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:58:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "BackendExample\\Services\\BeerService.cs",
+              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\BeerService.cs",
+              "RelativeToolTip": "BackendExample\\Services\\BeerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:27:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BeerRepository.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Repository\\BeerRepository.cs",
               "RelativeDocumentMoniker": "BackendExample\\Repository\\BeerRepository.cs",
@@ -136,20 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BeerService.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\BeerService.cs",
-              "RelativeDocumentMoniker": "BackendExample\\Services\\BeerService.cs",
-              "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\BeerService.cs*",
-              "RelativeToolTip": "BackendExample\\Services\\BeerService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:27:54.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ICommonService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\ICommonService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\ICommonService.cs",
@@ -157,11 +175,12 @@
               "RelativeToolTip": "BackendExample\\Services\\ICommonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:19:08.341Z"
+              "WhenOpened": "2025-06-21T17:19:08.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IRandomService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IRandomService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IRandomService.cs",
@@ -169,11 +188,12 @@
               "RelativeToolTip": "BackendExample\\Services\\IRandomService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:06:14.926Z"
+              "WhenOpened": "2025-06-13T12:06:14.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IPeopleService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IPeopleService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IPeopleService.cs",
@@ -181,11 +201,12 @@
               "RelativeToolTip": "BackendExample\\Services\\IPeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:38:22.669Z"
+              "WhenOpened": "2025-06-12T16:38:22.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\appsettings.json",
               "RelativeDocumentMoniker": "BackendExample\\appsettings.json",
@@ -193,11 +214,12 @@
               "RelativeToolTip": "BackendExample\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-13T22:18:22.805Z"
+              "WhenOpened": "2025-06-13T22:18:22.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PostsController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\PostsController.cs",
@@ -205,11 +227,12 @@
               "RelativeToolTip": "BackendExample\\Controllers\\PostsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:19:44.877Z"
+              "WhenOpened": "2025-06-13T22:19:44.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SomeController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\SomeController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\SomeController.cs",
@@ -217,11 +240,12 @@
               "RelativeToolTip": "BackendExample\\Controllers\\SomeController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:29:15.089Z"
+              "WhenOpened": "2025-06-13T21:29:15.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PeoplesController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\PeoplesController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\PeoplesController.cs",
@@ -229,11 +253,12 @@
               "RelativeToolTip": "BackendExample\\Controllers\\PeoplesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:53:03.768Z"
+              "WhenOpened": "2025-06-11T16:53:03.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IPostsService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\IPostsService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\IPostsService.cs",
@@ -241,11 +266,12 @@
               "RelativeToolTip": "BackendExample\\Services\\IPostsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:09:14.924Z"
+              "WhenOpened": "2025-06-13T22:09:14.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PeopleService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\PeopleService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\PeopleService.cs",
@@ -253,11 +279,12 @@
               "RelativeToolTip": "BackendExample\\Services\\PeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:40:22.963Z"
+              "WhenOpened": "2025-06-12T16:40:22.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RandomService.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\RandomService.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\RandomService.cs",
@@ -265,11 +292,12 @@
               "RelativeToolTip": "BackendExample\\Services\\RandomService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:07:07.642Z"
+              "WhenOpened": "2025-06-13T12:07:07.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BackendExample.csproj",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\BackendExample.csproj",
               "RelativeDocumentMoniker": "BackendExample\\BackendExample.csproj",
@@ -277,11 +305,12 @@
               "RelativeToolTip": "BackendExample\\BackendExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-13T22:05:09.65Z"
+              "WhenOpened": "2025-06-13T22:05:09.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PostDto.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\DTOs\\PostDto.cs",
               "RelativeDocumentMoniker": "BackendExample\\DTOs\\PostDto.cs",
@@ -289,11 +318,12 @@
               "RelativeToolTip": "BackendExample\\DTOs\\PostDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:06:19.401Z"
+              "WhenOpened": "2025-06-13T22:06:19.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RandomController.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\RandomController.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\RandomController.cs",
@@ -301,11 +331,12 @@
               "RelativeToolTip": "BackendExample\\Controllers\\RandomController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:55:56.207Z"
+              "WhenOpened": "2025-06-13T11:55:56.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "People2Service.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Services\\People2Service.cs",
               "RelativeDocumentMoniker": "BackendExample\\Services\\People2Service.cs",
@@ -313,11 +344,12 @@
               "RelativeToolTip": "BackendExample\\Services\\People2Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:54:58.5Z"
+              "WhenOpened": "2025-06-12T16:54:58.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Operation.cs",
               "DocumentMoniker": "D:\\Repositorios\\Backend-Example\\BackendExample\\Controllers\\Operation.cs",
               "RelativeDocumentMoniker": "BackendExample\\Controllers\\Operation.cs",
@@ -325,12 +357,13 @@
               "RelativeToolTip": "BackendExample\\Controllers\\Operation.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:13:31.126Z"
+              "WhenOpened": "2025-06-11T16:13:31.126Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 205,
+          "DockedWidth": 188,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -345,9 +378,10 @@
               "RelativeDocumentMoniker": "BackendExample\\Program.cs",
               "ToolTip": "D:\\Repositorios\\Backend-Example\\BackendExample\\Program.cs",
               "RelativeToolTip": "BackendExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:50:19.426Z"
+              "WhenOpened": "2025-06-12T16:50:19.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

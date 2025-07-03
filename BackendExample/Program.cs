@@ -1,3 +1,6 @@
+using AutoMapper;
+using AutoMapper;
+using BackendExample.AutoMappers;
 using BackendExample.DTOs;
 using BackendExample.Models;
 using BackendExample.Repository;
@@ -33,6 +36,15 @@ builder.Services.AddScoped<IValidator<BeerUpdateDto>, BeerUpdateValidator>();
 
 //Repository
 builder.Services.AddScoped<IRepository<Beer>, BeerRepository>();
+
+
+//Mappers
+var mapperConfig = new MapperConfiguration(cfg =>
+{
+	cfg.AddProfile<MappingProfile>();
+});
+IMapper mapper = mapperConfig.CreateMapper();
+builder.Services.AddSingleton(mapper);
 
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>
