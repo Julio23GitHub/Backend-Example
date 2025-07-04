@@ -32,5 +32,7 @@ namespace BackendExample.Repository
 		public void Delete(Beer beer)
 		=> _context.Beers.Remove(beer);
 
+		public IEnumerable<Beer> Search(Func<Beer, bool> filter) => _context.Beers.Where(filter).ToList();
+
 	}
 }
